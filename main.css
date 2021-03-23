@@ -1,0 +1,36 @@
+body{
+    background-color:wheat;
+    font-family: 'Quicksand', sans-serif;
+}
+
+textarea{
+    font-family: 'Quicksand', sans-serif;
+    background-color:darkseagreen;
+    margin-left: 44%;
+    text-align: center;
+    border: none;
+}
+h1{
+    color:black;
+    text-align: center;
+}
+h3{
+    font-family: 'Quicksand', sans-serif;
+    color:azure;
+}
+
+
+#post{
+    font-family: 'Quicksand', sans-serif;
+    background-color:darkslategray;
+    margin-left: 45%;
+    color: seashell;
+    border-radius: 7px;
+}
+#clear{
+    font-family: 'Quicksand', sans-serif;
+    background-color:rosybrown;
+    margin-left: 1.5%;
+    color: seashell;
+    border-radius: 7px;
+}
